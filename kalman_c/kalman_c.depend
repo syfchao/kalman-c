@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1524795435 source:d:\codeblocks\mingw\code\kalman_c\main.c
+	<stdio.h>
+	"kalman_filter.h"
+	"free_test07.h"
+
+1411616807 c:\users\administrator\desktop\kalman_filter-master\kalman_filter-master\kalman_filter.h
+
+1411616807 c:\users\administrator\desktop\kalman_filter-master\kalman_filter-master\free_test07.h
+
+1524734692 source:c:\users\administrator\desktop\kalman_filter-master\kalman_filter-master\kalman_filter.c
+	"kalman_filter.h"
+
+1411616807 source:c:\users\administrator\desktop\kalman_filter-master\kalman_filter-master\test_kalman_filter.c
+	<stdio.h>
+	"kalman_filter.h"
+	"free_test07.h"
+
